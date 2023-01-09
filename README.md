@@ -1,1 +1,1 @@
-# Prediction of Road Traffic on eju
+# Prediction of Road Traffic on Jeju
